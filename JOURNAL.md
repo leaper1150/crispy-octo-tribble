@@ -23,7 +23,7 @@ in the meantime I took the mint can and submerged it in water to find where it w
 
 [<img src="https://cdn.discordapp.com/attachments/1225643937859895378/1406111250458607646/1406111132627894324remix-1755313444354.png" width="300">](https://cdn.discordapp.com/attachments/1225643937859895378/1406111250458607646/1406111132627894324remix-1755313444354.png)
 
-[<img src="https://media.discordapp.net/attachments/1225643937859895378/1406111131583512677/20250815_230126_001.jpg" width="300">](https://media.discordapp.net/attachments/1225643937859895378/1406111131583512677/20250815_230126_001.jpg)
+[<img src="[https://media.discordapp.net/attachments/1225643937859895378/1406111131583512677/20250815_230126_001.jpg" width="300">]
 
 
 
