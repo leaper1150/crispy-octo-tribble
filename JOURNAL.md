@@ -13,7 +13,7 @@ with this I can finnaly start looking into boards and what I will need.
 in the meantime I took the mint can and submerged it in water to find where it would let in water so I could factor that in 
 (turns out it leaks from the hinges other than that its actually quite water resistant when closed ofcs ) 
 
-<img width="1440" height="3044" alt="image" src="https://github.com/user-attachments/assets/cc2dc77f-4a39-4c63-9951-c912564946ed" />
+<img src="https://github.com/user-attachments/assets/cc2dc77f-4a39-4c63-9951-c912564946ed" width="400">
 
 
 **took about an hour**
